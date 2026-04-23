@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- New Solid Palette -->
+    <color name="colorRoyalBlue">#2962FF</color>
+    <color name="colorMagenta">#D81B60</color>
+    <color name="colorCyan">#00B8D4</color>
+    <color name="colorYellow">#FFD600</color>
+    <color name="colorPurple">#6200EA</color>
+    <color name="colorPastelGreen">#C8E6C9</color>
+    <color name="colorOrange">#FF6D00</color>
+    <color name="colorGreen">#689E7B</color>
+
+    <!-- Pastel Variants -->
+    <color name="colorPastelBlue">#90CAF9</color>
+    <color name="colorPastelMagenta">#F48FB1</color>
+    <color name="colorPastelCyan">#80DEEA</color>
+    <color name="colorPastelYellow">#FFF59D</color>
+    <color name="colorPastelPurple">#B39DDB</color>
+    <color name="colorPastelOrange">#FFCC80</color>
+    <color name="colorGlassWhite">#4DFFFFFF</color>
+    <color name="colorGlassStroke">#80FFFFFF</color>
+
+    <!-- Theme Colors -->
+    <color name="colorPrimary">#2962FF</color>
+    <color name="colorPrimaryDark">#1A237E</color>
+    <color name="colorAccent">#00B8D4</color>
+</resources>
