@@ -1,0 +1,97 @@
+<resources>
+    <!-- Credenciales aplicativo -->
+    <string name="app_name">UPGRADE</string>
+    <string name="developer">C</string>
+    <string name="desarrollo">Desarrollado por: C</string>
+    <string name="version">version 1.0.0</string>
+    <string name="descripcion_dev">
+        Soy un programador con las siguientes habilidades y cualidades:
+        Habilidad para trabajar en equipo y evitar conflictos.
+        Soy logico y analitico.
+        Creativo y ocurrente.
+        Ser organizado y poder planificar taread y utilizar eficientemente mi tiempo.
+        Poseo la capacidad de planear, disenar, evaluar, controlar, instalaar, integrar,
+        construir, operar, administrar, y mantener sistemas que contemplen los sistemas
+        de software y todo lo relacionado con el ambiente computacional.
+    </string>
+    <string name="telefono_dev">Telefono: 9999999</string>
+    <!-- Botones Globales -->
+    <string name="listar">Lista</string>
+    <string name="guardar">Guardar</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="buscar">Buscar</string>
+    <string name="volver">Volver</string>
+    <!-- Login -->
+    <string name="Titulo_login">Ingrese Session</string>
+    <string name="lbl_usuario">Usuario</string>
+    <string name="txt_usuario">Ingrese Usuario</string>
+    <string name="lbl_password">Contraseña</string>
+    <string name="txt_password">Ingrese Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="lbl_crear_cuenta">¿No tiene cuenta? Regístrese aquí</string>
+    <!-- Registro -->
+    <string name="titulo_registro">Registrar Usuario</string>
+    <string name="lbl_nombres">Nombre</string>
+    <string name="txt_nombres">Ingrese Nombre</string>
+    <string name="lbl_apellidos">Apellido</string>
+    <string name="txt_apellidos">Ingrese Apellido</string>
+    <string name="lbl_correo">Correo</string>
+    <string name="txt_correo">Ingrese Correo</string>
+    <string name="lbl_passwordr">Contraseña</string>
+    <string name="text_password">Ingrese su Password</string>
+    <string name="lbl_confirmar_password">Confirmar Password</string>
+    <string name="txt_confirmar">Ingrese Confirmacion de Password</string>
+    <string name="btn_registrar">Registrar Usuario</string>
+    <string name="lbl_ir_login">Volver a Ingreso</string>
+    <!-- Dashboard -->
+    <string name="bienvenido">Bienvenido</string>
+    <string name="empresa">Empresa</string>
+    <string name="gastos">Gastos</string>
+    <string name="lista_tareas">Lista Tareas</string>
+    <string name="tareas">Tareas</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="mis_datos">Mis datos</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+
+    <!-- Mis Datos -->
+    <string name="correo_md">Correo</string>
+    <string name="codigo_md">Codigo</string>
+    <string name="titulo_md">Titulo</string>
+    <string name="datos_md">Datos</string>
+    <string name="leyenda_md">Todos los campos son requeridos: Nombre, Apellidos, Telefono</string>
+    <string name="nombre_md">Nombre</string>
+    <string name="apellido_md">Apellido</string>
+    <string name="fecha_nacimiento_md">Fecha Nacimiento</string>
+    <string name="edad_md">Edad</string>
+    <string name="telefono_md">Telefono</string>
+    <string name="domicilio_md">Domicilio</string>
+    <string name="tiktok_md">Tiktok</string>
+    <string name="profesion_md">Profesion</string>
+
+
+    <!--ITEM CLIENTE-->
+    <string name="id_cliente_item">Id Cliente</string>
+    <string name="uid_cliente">Uid Cliente</string>
+    <string name="nombre_cliente_item">Nombre</string>
+    <string name="apellido_cliente_item">Apellidos</string>
+    <string name="correo_cliente_item">Correo</string>
+    <string name="dni_cliente_item">Dni</string>
+    <string name="telefono_cliente_item">Telefono</string>
+    <string name="direccion_cliente_Item">Direccion</string>
+    <!--agregar cliente-->
+    <string name="registrar_cli">Registrar Cliente</string>
+    <string name="uid_usuario">Mi UID</string>
+    <string name="nombre_cli">Nombres Clientes</string>
+    <string name="apellidos_cli">Apellidos Clientes</string>
+    <string name="correo_cli">Correo</string>
+    <string name="dni_cli">DNI</string>
+    <string name="telefon_cli">Telefono</string>
+    <string name="direccion_cli">Direccion</string>
+    <!--CUADROS DE DIALOGO-->
+    <string name="titulo_val_cli">Aviso del Aplicativo</string>
+    <string name="desc_val_cli">Debe de ingresar como minimo el Nombre del Cliente. Gracias!</string>
+    <string name="btn_entendido_cli">Entendido</string>
+
+
+</resources>

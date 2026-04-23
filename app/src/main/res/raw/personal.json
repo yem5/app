@@ -1,0 +1,266 @@
+[
+  {
+    "NOMBRES": "ALISSON MAZIEL",
+    "APELLIDOS": "CARPIO LOPEZ",
+    "TELÉFONO": "959504614",
+    "CORREO": "alisson.carpio@upgrade.com.pe",
+    "ÁREA": "LEGAL",
+    "CUMPLEAÑOS": "3-Nov"
+  },
+  {
+    "NOMBRES": "ANYELA FATIMA",
+    "APELLIDOS": "GAHONA HURTADO",
+    "TELÉFONO": "959504118",
+    "CORREO": "anyela.gahona@upgrade.com.pe",
+    "ÁREA": "MARKETING",
+    "CUMPLEAÑOS": "1-Nov"
+  },
+  {
+    "NOMBRES": "CESAR FERNANDO",
+    "APELLIDOS": "CISNEROS TAPULLIMA",
+    "TELÉFONO": "959504256",
+    "CORREO": "cesar.cisneros@upgrade.com.pe",
+    "ÁREA": "SOPORTE TECNICO",
+    "CUMPLEAÑOS": "6-Oct"
+  },
+  {
+    "NOMBRES": "CLAUDIA CAROLINA",
+    "APELLIDOS": "ANDIA CAMERO",
+    "TELÉFONO": "958280866",
+    "CORREO": "claudia.andia@upgrade.com.pe",
+    "ÁREA": "MANTENIMIENTO",
+    "CUMPLEAÑOS": "5-Mar"
+  },
+  {
+    "NOMBRES": "CRHISTIAN",
+    "APELLIDOS": "ZIEGLER PACORI PAUCAR",
+    "TELÉFONO": "990281654",
+    "CORREO": "crhistian.pacori@upgrade.com.pe",
+    "ÁREA": "SISTEMAS",
+    "CUMPLEAÑOS": "22-Mar"
+  },
+  {
+    "NOMBRES": "ERICKA LOURDES",
+    "APELLIDOS": "SALINAS VERA",
+    "TELÉFONO": "959504258",
+    "CORREO": "ericka.salinas@upgrade.com.pe",
+    "ÁREA": "MARKETING",
+    "CUMPLEAÑOS": "28 dic"
+  },
+  {
+    "NOMBRES": "FIDEL REYNALDO",
+    "APELLIDOS": "ARIAS ARIAS",
+    "TELÉFONO": "953922913",
+    "CORREO": "fidel.arias@upgrade.com.pe",
+    "ÁREA": "SISTEMAS",
+    "CUMPLEAÑOS": "6-Feb"
+  },
+  {
+    "NOMBRES": "JOEL",
+    "APELLIDOS": "CHOQUE VALENCIA",
+    "TELÉFONO": "959505819",
+    "CORREO": "joel.choque@upgrade.com.pe",
+    "ÁREA": "SOPORTE TECNICO",
+    "CUMPLEAÑOS": "9-Nov"
+  },
+  {
+    "NOMBRES": "JOSE ALFONSO",
+    "APELLIDOS": "RUIZ BARRETO",
+    "TELÉFONO": "959505833",
+    "CORREO": "alfonso.ruiz@upgrade.com.pe",
+    "ÁREA": "VENTAS",
+    "CUMPLEAÑOS": "29-Nov"
+  },
+  {
+    "NOMBRES": "JOSE ALFREDO",
+    "APELLIDOS": "GUTIERREZ PALZA",
+    "TELÉFONO": "959504152",
+    "CORREO": "jose.gutierrez@upgrade.com.pe",
+    "ÁREA": "VENTAS",
+    "CUMPLEAÑOS": "2-Jul"
+  },
+  {
+    "NOMBRES": "JOSE IGNACIO",
+    "APELLIDOS": "PALMA DIAZ",
+    "TELÉFONO": "959504639",
+    "CORREO": "jose.palma@upgrade.com.pe",
+    "ÁREA": "VENTAS",
+    "CUMPLEAÑOS": "17-Jul"
+  },
+  {
+    "NOMBRES": "JOSE LEONARDO",
+    "APELLIDOS": "ZABALA JIMENEZ",
+    "TELÉFONO": "959504175",
+    "CORREO": "jose.zabala@upgrade.com.pe",
+    "ÁREA": "VENTAS",
+    "CUMPLEAÑOS": "18 dic"
+  },
+  {
+    "NOMBRES": "JOSE LUIS",
+    "APELLIDOS": "CONDORI",
+    "TELÉFONO": "959504681",
+    "CORREO": "jose.condori@upgrade.com.pe",
+    "ÁREA": "VENTAS",
+    "CUMPLEAÑOS": "24-Feb"
+  },
+  {
+    "NOMBRES": "KARLANGELA",
+    "APELLIDOS": "MAQUERA VELASQUEZ",
+    "TELÉFONO": "963033814",
+    "CORREO": "karlangela.maquera@gmail.com.pe",
+    "ÁREA": "FINANZAS",
+    "CUMPLEAÑOS": "3-Jun"
+  },
+  {
+    "NOMBRES": "LUIS HERMINIO",
+    "APELLIDOS": "ESENARRO AGUILAR",
+    "TELÉFONO": "980058090",
+    "CORREO": "luis.esenarro@upgrade.com.pe",
+    "ÁREA": "SISTEMAS",
+    "CUMPLEAÑOS": "13 ene"
+  },
+  {
+    "NOMBRES": "MANUEL JAIME",
+    "APELLIDOS": "CANDIA AGUILAR",
+    "TELÉFONO": "994064370",
+    "CORREO": "jaime.candia@upgrade.com.pe",
+    "ÁREA": "SISTEMAS",
+    "CUMPLEAÑOS": "24 dic"
+  },
+  {
+    "NOMBRES": "MARY CARMEN",
+    "APELLIDOS": "ARANIBAR LOAIZA",
+    "TELÉFONO": "959504270",
+    "CORREO": "mary.aranibar@upgrade.com.pe",
+    "ÁREA": "ADMINISTRACION",
+    "CUMPLEAÑOS": "15-Feb"
+  },
+  {
+    "NOMBRES": "MARIA ANGELA",
+    "APELLIDOS": "HUAYLLA FERNANDEZ",
+    "TELÉFONO": "975200250",
+    "CORREO": "maria.huaylla@upgrade.com.pe",
+    "ÁREA": "LEGAL",
+    "CUMPLEAÑOS": "20 sept"
+  },
+  {
+    "NOMBRES": "MERY NOHELIA",
+    "APELLIDOS": "JUNCO GRIMALDOS",
+    "TELÉFONO": "957750149",
+    "CORREO": "mery.junco@upgrade.com.pe",
+    "ÁREA": "MARKETING",
+    "CUMPLEAÑOS": "24 abr"
+  },
+  {
+    "NOMBRES": "MILAN HUBERT",
+    "APELLIDOS": "CHICAÑA CHAVEZ",
+    "TELÉFONO": "923003266",
+    "CORREO": "milan.chicania@upgrade.com.pe",
+    "ÁREA": "SOPORTE TECNICO",
+    "CUMPLEAÑOS": "18 sept"
+  },
+  {
+    "NOMBRES": "MIRNA ROSA",
+    "APELLIDOS": "ZEVALLOS RAMIREZ",
+    "TELÉFONO": "994194075",
+    "CORREO": "mirna.zevallos@upgrade.com.pe",
+    "ÁREA": "ADMINISTRACION",
+    "CUMPLEAÑOS": "25-May"
+  },
+  {
+    "NOMBRES": "PAOLA",
+    "APELLIDOS": "GUTIERREZ ANAYA",
+    "TELÉFONO": "959504684",
+    "CORREO": "paola.gutierrez@upgrade.com.pe",
+    "ÁREA": "ADMINISTRACION",
+    "CUMPLEAÑOS": "24 dic"
+  },
+  {
+    "NOMBRES": "ROBERTO SEBASTIAN",
+    "APELLIDOS": "DURAND CHAVEZ",
+    "TELÉFONO": "922314370",
+    "CORREO": "sebastian.durand@upgrade.com.pe",
+    "ÁREA": "SOPORTE TECNICO",
+    "CUMPLEAÑOS": "15 dic"
+  },
+  {
+    "NOMBRES": "RONALD ALFREDO",
+    "APELLIDOS": "RIVERA PAREDES",
+    "TELÉFONO": "959504169",
+    "CORREO": "ronald.rivera@upgrade.com.pe",
+    "ÁREA": "FINANZAS",
+    "CUMPLEAÑOS": "30 ago"
+  },
+  {
+    "NOMBRES": "RYLDO GIOVANY",
+    "APELLIDOS": "QUISPE ANDIA",
+    "TELÉFONO": "959504776",
+    "CORREO": "ryldo.quispe@upgrade.com.pe",
+    "ÁREA": "SISTEMAS",
+    "CUMPLEAÑOS": "2-Nov"
+  },
+  {
+    "NOMBRES": "SERGIO WILLARD",
+    "APELLIDOS": "ARIAS PALOMINO",
+    "TELÉFONO": "959504778",
+    "CORREO": "sergio.arias@upgrade.com.pe",
+    "ÁREA": "FINANZAS",
+    "CUMPLEAÑOS": "16 sept"
+  },
+  {
+    "NOMBRES": "SILER MARIELA",
+    "APELLIDOS": "QUISPE HUAMANI DE SALAZAR",
+    "TELÉFONO": "958408998",
+    "CORREO": "siler.quispe@upgrade.com.pe",
+    "ÁREA": "MANTENIMIENTO",
+    "CUMPLEAÑOS": "24 abr"
+  },
+  {
+    "NOMBRES": "SONIA LUZ",
+    "APELLIDOS": "MORALES ESPINOZA",
+    "TELÉFONO": "959504263",
+    "CORREO": "luz.morales@upgrade.com.pe",
+    "ÁREA": "VENTAS",
+    "CUMPLEAÑOS": "07 sept"
+  },
+  {
+    "NOMBRES": "VALERIA MASSIEL",
+    "APELLIDOS": "CANDIA ZEVALLOS",
+    "TELÉFONO": "975200622",
+    "CORREO": "valeria.candia@upgrade.com.pe",
+    "ÁREA": "ADMINISTRACION",
+    "CUMPLEAÑOS": "27-Jul"
+  },
+  {
+    "NOMBRES": "WALTHER",
+    "APELLIDOS": "ATAUCURI ZUÑIGA",
+    "TELÉFONO": "959506375",
+    "CORREO": "walther.ataucuri@upgrade.com.pe",
+    "ÁREA": "FINANZAS",
+    "CUMPLEAÑOS": "14-Nov"
+  },
+  {
+    "NOMBRES": "XIOMARA MARICIELO",
+    "APELLIDOS": "BENIQUE YAULI",
+    "TELÉFONO": "958829278",
+    "CORREO": "xiomara.benique@upgrade.com.pe",
+    "ÁREA": "SOPORTE TECNICO",
+    "CUMPLEAÑOS": "26-Jun"
+  },
+  {
+    "NOMBRES": "YESSICA PAOLA",
+    "APELLIDOS": "HIRACUNDO NINA",
+    "TELÉFONO": "959504266",
+    "CORREO": "yessica.hiracundo@upgrade.com.pe",
+    "ÁREA": "LEGAL",
+    "CUMPLEAÑOS": "29-Jun"
+  },
+  {
+    "NOMBRES": "YOSHIRO MILTON",
+    "APELLIDOS": "MIRANDA VALDIVIA",
+    "TELÉFONO": "961320273",
+    "CORREO": "yoshiro.miranda@upgrade.com.pe",
+    "ÁREA": "SISTEMAS",
+    "CUMPLEAÑOS": "30 abr"
+  }
+]
